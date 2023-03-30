@@ -6,7 +6,7 @@ However, you can (and should!) also build your own application that is more appl
 
 Our first steps is to build **static prototypes** of our intended web app. 
 
-> You can view these example prototype pages on [the Github Pages site.](https://atcs-wang.github.io/inventory-webapp-01-static-prototypes/)
+> You can view these example prototype pages on [the Github Pages site.](https://ivy-wan.github.io/inventory-webapp-01-static-prototypes/)
 
 ## (1.1) Why are we using a front-end framework like Materialize?
 
